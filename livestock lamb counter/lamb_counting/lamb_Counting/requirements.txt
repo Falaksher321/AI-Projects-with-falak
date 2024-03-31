@@ -1,0 +1,8 @@
+inference==0.8.8
+numpy  # Update this line with a compatible numpy version
+onnxruntime
+opencv-python
+Pillow
+streamlit
+torch
+transformers
